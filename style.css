@@ -1,0 +1,40 @@
+.container{
+    margin-bottom: 50px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.top-bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.price{
+    color: #FF136F;
+}
+.button{
+   color: white;
+   background-image: linear-gradient(45deg,#FF589B,#FF136F); 
+   border-radius: 10px;
+   cursor: pointer;
+   border: none;
+   padding: 7px 20px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(45deg,crimson, orange);
+}
+.cat2{
+    background-image: linear-gradient(45deg,lightsalmon, tomato );
+}
+.cat3{
+    background-image: linear-gradient(45deg, lightgrey, purple);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
